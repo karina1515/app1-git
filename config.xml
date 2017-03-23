@@ -5,13 +5,13 @@
 	id = "com.phonegap.example1"
 	version = "1.0.0">
 	
-	<name> app1 DATOSALUMNOS </name>
+	<name>app1 DATOSALUMNOS</name>
 	
 	<description>
 	Aplicacion que muestra los DATOS del alumno
 	</description>
 	
-	<author href="https://build.phonegap.com" email="karinalvarado155@gmail.com">
+	<author href="https://build.phonegap.com" email="karinalvarado1505@gmail.com">
 		Karina Jiménez Alvarado 4 F
 	</author>
 	
